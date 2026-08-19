@@ -10,10 +10,10 @@ Advanced Software Engineering course.
 | Deliverable | File | Milestone |
 |---|---|---|
 | D1 — Failure Timeline | [`Lab01/timelines/D1-failure-timeline.md`](Lab01/timelines/D1-failure-timeline.md) | M1 |
-| D2 — Root-Cause Map | [`root-cause/D2-root-cause-map.md`](root-cause/D2-root-cause-map.md) | M2 |
-| D3 — SDLC Failure Map + Origin–Detection Matrix | [`sdlc-analysis/D3-sdlc-failure-map.md`](sdlc-analysis/D3-sdlc-failure-map.md) | M3 |
-| D4 — Engineering Responsibility & Ethics Map | [`ethics/D4-engineering-ethics-map.md`](ethics/D4-engineering-ethics-map.md) | M4 |
-| D5 — Failure Prevention Plan | [`prevention/D5-prevention-plan.md`](prevention/D5-prevention-plan.md) | M5 |
+| D2 — Root-Cause Map | [`Lab01/root-cause/D2-root-cause-map.md`](Lab01/root-cause/D2-root-cause-map.md) | M2 |
+| D3 — SDLC Failure Map + Origin–Detection Matrix | [`Lab01/sdlc-analysis/D3-sdlc-failure-map.md`](Lab01/sdlc-analysis/D3-sdlc-failure-map.md) | M3 |
+| D4 — Engineering Responsibility & Ethics Map | [`Lab01/ethics/D4-engineering-ethics-map.md`](Lab01/ethics/D4-engineering-ethics-map.md) | M4 |
+| D5 — Failure Prevention Plan | [`Lab01/prevention/D5-prevention-plan.md`](Lab01/prevention/D5-prevention-plan.md) | M5 |
 
 The full written submission (4–5 pages) compiling all of the above is
 `lab01-failure-forensics.pdf` at the repository root.
