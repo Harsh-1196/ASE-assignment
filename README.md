@@ -9,7 +9,7 @@ Advanced Software Engineering course.
 
 | Deliverable | File | Milestone |
 |---|---|---|
-| D1 — Failure Timeline | [`timelines/D1-failure-timeline.md`](timelines/D1-failure-timeline.md) | M1 |
+| D1 — Failure Timeline | [`Lab01/timelines/D1-failure-timeline.md`](Lab01/timelines/D1-failure-timeline.md) | M1 |
 | D2 — Root-Cause Map | [`root-cause/D2-root-cause-map.md`](root-cause/D2-root-cause-map.md) | M2 |
 | D3 — SDLC Failure Map + Origin–Detection Matrix | [`sdlc-analysis/D3-sdlc-failure-map.md`](sdlc-analysis/D3-sdlc-failure-map.md) | M3 |
 | D4 — Engineering Responsibility & Ethics Map | [`ethics/D4-engineering-ethics-map.md`](ethics/D4-engineering-ethics-map.md) | M4 |
